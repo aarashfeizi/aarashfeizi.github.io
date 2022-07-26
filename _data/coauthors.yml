@@ -17,18 +17,33 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Ahrabian":
+  - firstname: ["Kian", "K."]
+    url: https://www.cs.mcgill.ca/~kahrab/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Hamilton":
+  - firstname: ["William", "W. L.", "L.", "William L."]
+    url: https://williamleif.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Bose":
+  - firstname: ["Joey", "J.", "Avishek Joey", "A. J."]
+    url: https://mila.quebec/en/person/joey-bose/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Salehi":
+  - firstname: ["Yasmin", "Y."]
+    url: https://scholar.google.com/citations?user=9uzdQ9AAAAAJ&hl=en
+
+"Rabbany":
+  - firstname: ["Reihaneh", "R."]
+    url: http://www.reirab.com/
+
+
+"Romero-Soriano":
+  - firstname: ["Adriana", "A."]
+    url: https://sites.google.com/site/adriromsor/
+
+"Casanova":
+  - firstname: ["Arantxa", "A."]
+    url: https://mila.quebec/en/person/arantxa-casanova/
+
+#Ahrabian, Kian and Feizi, Aarash and Salehi, Yasmin and Hamilton, William L and Bose, Avishek Joey
