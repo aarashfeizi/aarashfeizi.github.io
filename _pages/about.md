@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Super interested in using machine learning techniques to use AI for social good and look forward to collaborating with other interested researchers, so don't feel shy to contact me! :D
 
-I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>.
+I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>. I'm currently doing an internship at <a href="https://www.recursion.com/">Recursion</a>.
 
 I did my undergraduate studies at Sharif University of Technology, Tehran, Iran, in software engineering from 2014-2019.
 
