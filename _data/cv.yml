@@ -15,6 +15,8 @@
       items:
         - Representation Learning
         - Self-Supervised Learning
+        - Multi-Modal Learning
+        - Out-of-Distribution Robustness
     - title: Learning on Graphs
       items:
         - Knowledge Graphs
@@ -45,6 +47,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Research Intern
+      institution: <a href="https://www.recursion.com/">Recursion</a>, Montreal, Canada
+      year: 2023
+      description:
+        - Worked in the Data Science group and was supervised by a Senior Machine Learning Scientist
+        - Designed models to learn gene representations for data-centric drug discovery
+        - Applied multi-modal models with self-supervised learning techniques to better integrate sequential and visual modalities of gene-perturbations to learn better gene representations
+
     - title: Research Assistant
       institution: University of Toronto, Toronto, Canada
       year: 2018
@@ -68,14 +78,22 @@
 - title: Projects
   type: time_table
   contents:
+    - title: Guided Positive Sampling for Self-Supervised Learning
+      year: 2023
+      items:
+        - Designed a novel method, namely GPS-SSL, for integrating a priori knowledge into any self-supervised learning (SSL) model
+        - GPS-SSL performs positive sampling by approximating strong augmentations 
+        - The method encourages the base SSL method to be more robust against untuned data augmentations when applied to under-studied and/or real-world datasets
+        - Submitted to ICLR 2023
+
     - title: <a href="https://arxiv.org/abs/2207.10200">Revisiting Hotels-50K and Hotel-ID</a>
       year: 2022
       items:
         - Revisited two image datasets, Hotels-50K and Hotel-ID, and proposed new training
           and evaluation splits with different levels of difficulty
-        - Proposed evaluation splits based on the images’ class and super-class information
+        - Proposed evaluation splits based on the images' class and super-class information
           to imitate real-world scenarios
-        - Accepted paperforthe <a href="https://sites.google.com/view/dataperf2022">ICML 2022 DataPerf</a> workshop
+        - Accepted paper for the <a href="https://sites.google.com/view/dataperf2022">ICML 2022 DataPerf</a> workshop
 
     - title: <a href="https://arxiv.org/abs/2009.11355">Structure-Aware Negative Sampling in Knowledge Graphs</a>
       year: 2020
@@ -103,6 +121,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Received Graduate Research Enhancement and Travel (GREAT) Award
+
     - year: 2022
       items:
         - Received the Fonds de recherche du Québec – Nature et technologies (FRQNT) doctoral scholarship
