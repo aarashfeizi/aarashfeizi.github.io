@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a>
-
+subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a> 
 
 profile:
   align: right
@@ -18,13 +17,20 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Super interested in using machine learning techniques to use AI for social good and look forward to collaborating with other interested researchers, so don't feel shy to contact me! :D
+Super interested in using machine learning techniques to use AI for social good and constantly looking forward to collaborating with other interested researchers, so don't feel shy to contact me! :D
 
-I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>. I'm currently doing an internship at <a href="https://www.recursion.com/">Recursion</a>.
+I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>.
 
-I did my undergraduate studies at Sharif University of Technology, Tehran, Iran, in software engineering from 2014-2019.
 
-My research interests are image/graph representation learning and self-supervision. My current project is on extracting multi-scale features for linking images and extracting similarities and differences among groups of images. I'm also the organizer of [Mila's Computer Vision Reading Group](https://mila-vision-rg.github.io/), if you'd like to attend or present, send me an email! :) 
+My research interests are multi-modal (image/language/graph) representation learning and self-supervision in general.
+I am currently a visiting researcher at [ServiceNow](https://www.servicenow.com/) and working on and exploring open- and closed-source multimodal large language models (MLLMs) to see how reliable they are as judges.
+
+
+Furthermore, I am further interested in how self-supervised methods can enhance their robustness in uni- or multi-modal learning, enabling them to perform effectively across a broader spectrum of applications and real-world datasets.
+
+
+<!-- My current project is on extracting multi-scale features for linking images and extracting similarities and differences among groups of images. -->
+I'm also the founder of [Mila's Computer Vision Reading Group](https://mila-vision-rg.github.io/) (currently on pause). If you'd like to attend or present something, send me an email! :) 
 
 [[CV](/assets/pdf/aarashfeizi.pdf)]
 
