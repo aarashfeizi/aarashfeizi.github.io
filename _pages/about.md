@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a> 
+subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a> <br> Visiting Researcher at <a href= 'https://servicenow.com' >ServiceNow Research</a>
 
 profile:
   align: right
@@ -16,21 +16,23 @@ profile:
 
 social: true  # includes social icons at the bottom of the page
 ---
+<!-- 
+Super interested in using machine learning techniques to use AI for social good and constantly looking forward to collaborating with other interested researchers, so don't feel shy to contact me! :D -->
 
-Super interested in using machine learning techniques to use AI for social good and constantly looking forward to collaborating with other interested researchers, so don't feel shy to contact me! :D
+I'm passionate about multimodal learning and large multimodal models, exploring their applications (and limitations) in real-world scenarios. Always open to collaborating with like-minded researchers, so don't feel shy to contact me!
 
 I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>.
 
 
 My research interests are multi-modal (image/language/graph) representation learning and self-supervision in general.
-I am currently a visiting researcher at [ServiceNow](https://www.servicenow.com/) and working on and exploring open- and closed-source multimodal large language models (MLLMs) to see how reliable they are as judges.
+I am currently a visiting researcher at [ServiceNow](https://www.servicenow.com/research/) designing novel multimodal large language models (MLLMs) and further exploring how open- and closed-source MLLMs to see how reliable they are as judges.
 
 
-Furthermore, I am further interested in how self-supervised methods can enhance their robustness in uni- or multi-modal learning, enabling them to perform effectively across a broader spectrum of applications and real-world datasets.
+Furthermore, I am also interested in how self-supervised methods can enhance their robustness in uni- or multi-modal learning, enabling them to perform effectively across a broader spectrum of applications and real-world datasets.
 
 
 <!-- My current project is on extracting multi-scale features for linking images and extracting similarities and differences among groups of images. -->
-I'm also the founder of [Mila's Computer Vision Reading Group](https://mila-vision-rg.github.io/) (currently on pause). If you'd like to attend or present something, send me an email! :) 
+Finally, I'm the founder of [Mila's Computer Vision Reading Group](https://mila-vision-rg.github.io/) (currently on pause). If you'd like to attend or present something, send me an email! :) 
 
 [[CV](/assets/pdf/aarashfeizi.pdf)]
 

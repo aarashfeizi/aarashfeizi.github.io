@@ -4,10 +4,11 @@
   contents:
     - title: Computer Vision
       items:
+        - Multi-Modal Learning
         - Representation Learning
         - Self-Supervised Learning
-        - Multi-Modal Learning
         - Out-of-Distribution Robustness
+        - Diffusion Models
     - title: Learning on Graphs
       items:
         - Knowledge Graphs
@@ -38,6 +39,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Visiting Researcher
+      institution: <a href="https://www.servicenow.com/research/">ServiceNow Research</a>, Montreal, Canada
+      year: 2024
+      description:
+        - Worked in multimodal foundation model team and was supervised by a Senior Machine Learning Scientist
+        - Proposed a multimodal benchmark for evaluating state-of-the-art large multimodal models
+        - Designed efficient evaluation pipelines for large foundation models
+
     - title: Machine Learning Research Intern
       institution: <a href="https://www.recursion.com/">Recursion</a>, Montreal, Canada
       year: 2023
@@ -69,13 +78,13 @@
 - title: Projects
   type: time_table
   contents:
-    - title: Guided Positive Sampling for Self-Supervised Learning
+    - title: <a href="https://arxiv.org/abs/2401.01990">Guided Positive Sampling for Self-Supervised Learning</a>
       year: 2023
       items:
         - Designed a novel method, namely GPS-SSL, for integrating a priori knowledge into any self-supervised learning (SSL) model
         - GPS-SSL performs positive sampling by approximating strong augmentations 
         - The method encourages the base SSL method to be more robust against untuned data augmentations when applied to under-studied and/or real-world datasets
-        - Submitted to ICLR 2023
+        - Submitted to TMLR
 
     - title: <a href="https://arxiv.org/abs/2207.10200">Revisiting Hotels-50K and Hotel-ID</a>
       year: 2022

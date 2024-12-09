@@ -50,4 +50,41 @@
   - firstname: ["Randall", "R."]
     url: https://scholar.google.com/citations?user=S1x_xqcAAAAJ&hl=en
 
+"Rodriguez":
+  - firstname: ["Juan", "Juan A"]
+    url: https://scholar.google.es/citations?user=0selhb4AAAAJ&hl=en
+    
+"Jian":
+  - firstname: ["Xiangru"]
+    url: https://scholar.google.com/citations?user=kq17trAAAAAJ&hl
+    
+"Panigrahi":
+  - firstname: ["Siba Smarak"]
+    url: https://scholar.google.com/citations?user=X0n6DHoAAAAJ&hl=en
+    
+"Zhang":
+  - firstname: ["Tianyu"]
+    url: https://scholar.google.com/citations?user=jZUQSnYAAAAJ&hl=
+    
+"Puri":
+  - firstname: ["Abhay"]
+    url: https://scholar.google.ca/citations?user=s8vVSvIAAAAJ&hl=en
+    
+"Suresh":
+  - firstname: ["Akshay Kalkunte"]
+    url: https://scholar.google.com/citations?user=-GV1fg4AAAAJ&hl=en
+    
+"Savard":
+  - firstname: ["François"]
+    url: https://www.linkedin.com/in/fsavard/?originalSubdomain=ca
+
+"Masry":
+  - firstname: ["Ahmed"]
+    url: https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en#
+
+"Nayak":
+  - firstname: ["Shravan"]
+    url: https://scholar.google.com/citations?user=vT4f678AAAAJ&hl=en
+
+
 #Ahrabian, Kian and Feizi, Aarash and Salehi, Yasmin and Hamilton, William L and Bose, Avishek Joey
