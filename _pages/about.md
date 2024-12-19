@@ -21,7 +21,7 @@ Super interested in using machine learning techniques to use AI for social good 
 
 I'm passionate about multimodal learning and large multimodal models, exploring their applications (and limitations) in real-world scenarios. Always open to collaborating with like-minded researchers, so don't feel shy to contact me!
 
-I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbnay</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>.
+I am majoring in Computer Science at McGill University and Mila, under the supervision of Professor <a href="http://www.reirab.com">Reihaneh Rabbany</a> and Professor <a href="https://sites.google.com/site/adriromsor/home">Adriana Romero-Soriano</a>.
 
 
 My research interests are multi-modal (image/language/graph) representation learning and self-supervision in general.
