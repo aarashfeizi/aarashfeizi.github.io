@@ -84,7 +84,6 @@
         - Designed a novel method, namely GPS-SSL, for integrating a priori knowledge into any self-supervised learning (SSL) model
         - GPS-SSL performs positive sampling by approximating strong augmentations 
         - The method encourages the base SSL method to be more robust against untuned data augmentations when applied to under-studied and/or real-world datasets
-        - Submitted to TMLR
 
     - title: <a href="https://arxiv.org/abs/2207.10200">Revisiting Hotels-50K and Hotel-ID</a>
       year: 2022
