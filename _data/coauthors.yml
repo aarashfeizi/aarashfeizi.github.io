@@ -37,10 +37,41 @@
   - firstname: ["Reihaneh", "R."]
     url: http://www.reirab.com/
 
+"Rajeswar":
+  - firstname: ["Sai", "S."]
+    url: https://sairajeswar.com/
+
+"Awal":
+  - firstname: ["Rabiul", "R."]
+    url: https://rabiul.me/
+
+"Gella":
+  - firstname: ["Spandana", "S."]
+    url: https://scholar.google.com/citations?user=fChTW6MAAAAJ&hl=en
+
+"Farnadi":
+  - firstname: ["G.", "Golnoosh"]
+    url: https://gfarnadi.github.io/
+
+"Pal":
+  - firstname: ["Christopher", "Chris", "C."]
+    url: https://sites.google.com/view/christopher-pal
 
 "Romero-Soriano":
   - firstname: ["Adriana", "A."]
     url: https://sites.google.com/site/adriromsor/
+
+"Zantedeschi":
+  - firstname: ["Valentina", "V."]
+    url: https://vzantedeschi.com/
+
+"Romero-Sorian":
+  - firstname: ["Adriana", "A."]
+    url: https://sites.google.com/site/adriromsor/
+
+"Monteiro":
+  - firstname: ["Joao", "João", "J."]
+    url: https://scholar.google.com/citations?user=hkO47vsAAAAJ&hl=en
 
 "Casanova":
   - firstname: ["Arantxa", "A."]

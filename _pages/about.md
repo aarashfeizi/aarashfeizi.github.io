@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a> <br> Visiting Researcher at <a href= 'https://servicenow.com' >ServiceNow Research</a>
+subtitle: PhD Candidate at <a href= 'https://www.cs.mcgill.ca' >McGill University</a> <br> Researcher at <a href= 'https://mila.quebec' >Mila, Quebec AI Institute</a> <br> Student Researcher at <a href= 'https://research.google' >Google Research</a>
 
 profile:
   align: right
@@ -25,7 +25,10 @@ I am majoring in Computer Science at McGill University and Mila, under the super
 
 
 My research interests are multi-modal (image/language/graph) representation learning and self-supervision in general.
-I am currently a visiting researcher at [ServiceNow](https://www.servicenow.com/research/) designing novel multimodal large language models (MLLMs) and further exploring how open- and closed-source MLLMs to see how reliable they are as judges.
+
+I recently started as a Student Researcher at [Google Research](https://research.google), where I'm working on projects involving text-to-image models and data attribution.
+
+Previously, I was a visiting researcher at [ServiceNow Research](https://www.servicenow.com/research/), where I designed novel multimodal large language models (MLLMs) and explored how open- and closed-source MLLMs perform as reliable judges. Before that, I interned at [Recursion](https://www.recursion.com/), working on multimodal learning for biological data.
 
 
 Furthermore, I am also interested in how self-supervised methods can enhance their robustness in uni- or multi-modal learning, enabling them to perform effectively across a broader spectrum of applications and real-world datasets.
@@ -40,4 +43,4 @@ Finally, I'm the founder of [Mila's Computer Vision Reading Group](https://mila-
 
 [comment]: <> (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
-[comment]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.) 
+[comment]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)

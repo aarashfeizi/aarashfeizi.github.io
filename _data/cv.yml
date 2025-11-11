@@ -1,27 +1,23 @@
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer Vision
+    - title: Multi-Modal Representation Learaning
       items:
-        - Multi-Modal Learning
-        - Representation Learning
-        - Self-Supervised Learning
+        - Agentic AI
         - Out-of-Distribution Robustness
+        - Self-Supervised Learning
         - Diffusion Models
     - title: Learning on Graphs
       items:
         - Knowledge Graphs
         - Graph Representation Learning
-        - Temporal Graphs
-
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
       institution: McGill University, Montreal, Canada
-      year: 2019-present
+      year: 2019 - present
 #      description:
 #        - PhD Candidate Student
 #        - Description 2.
@@ -31,7 +27,7 @@
 #            - Sub-description 2.
     - title: B.Sc. in Software Engineering
       institution: Sharif University of Technology, Tehran, Iran
-      year: 2014-2019
+      year: 2014 - 2019
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -39,11 +35,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Student Researcher
+      institution: <a href="https://research.google">Google Research</a>, Montreal, Canada
+      year: 2025 - present
+      description:
+        - Working with Negar Rostamzadeh and Mohammad Havaei on projects involving text-to-image models and data attribution
+        - Exploring advanced techniques in multimodal learning and generative AI
+
     - title: Visiting Researcher
       institution: <a href="https://www.servicenow.com/research/">ServiceNow Research</a>, Montreal, Canada
-      year: 2024
+      year: 2024 - 2025
       description:
-        - Worked in multimodal foundation model team and was supervised by a Senior Machine Learning Scientist
+        - Worked in multimodal foundation model team and was supervised by Joao Monteiro, Spandana Gella, Sai Rajeswar, Valentina Zantedeschi, and Perouz Taslakian
         - Proposed a multimodal benchmark for evaluating state-of-the-art large multimodal models
         - Designed efficient evaluation pipelines for large foundation models
 
@@ -78,8 +81,38 @@
 - title: Projects
   type: time_table
   contents:
+    - title: <a href="https://arxiv.org/abs/2502.15210">PairBench Are Vision-Language Models Reliable at Comparing What They See?</a>
+      year: 2025
+      items:
+        - Developed a framework for evaluating Vision-Language Models (VLMs) as similarity kernels using four key metrics
+        - Demonstrated the importance of thorough assessment before adopting VLMs for evaluation tasks
+
+    - title: <a href="https://webmmu-paper.github.io/">WebMMU A Benchmark for Multimodal Multilingual Website Understanding and Code Generation</a>
+      year: 2025
+      items:
+        - Released WebMMU, a large-scale benchmark for evaluating multimodal and multilingual website understanding
+        - Benchmarked code generation and UI reasoning tasks across languages, highlighting limitations in current vision-language models
+
+    - title: <a href="https://arxiv.org/abs/2502.01341">AlignVLM Bridging Vision and Language Latent Spaces for Multimodal Understanding</a>
+      year: 2025
+      items:
+        - Proposed AlignVLM, a framework to align latent spaces between vision and language models for improved multimodal reasoning
+        - Demonstrated that latent space alignment enhances cross-modal transfer and understanding across diverse tasks
+
+    - title: <a href="https://arxiv.org/abs/2505.20793">Rendering-Aware Reinforcement Learning for Vector Graphics Generation</a>
+      year: 2025
+      items:
+        - Introduced a rendering-aware reinforcement learning method for generating high-quality vector graphics
+        - Showed improvements in fidelity and structural consistency compared to prior vector graphics generation techniques
+    
+    - title: <a href="https://bigdocs.github.io/">BigDocs-7.5M A Large-Scale Dataset for Document Understanding</a>
+      year: 2024
+      items:
+        - Created an open-access dataset with 7.5 million multimodal documents for document understanding tasks
+        - Demonstrated that models trained on BigDocs-Bench improved document reasoning performance by up to 25.8% over GPT-4o
+
     - title: <a href="https://arxiv.org/abs/2401.01990">Guided Positive Sampling for Self-Supervised Learning</a>
-      year: 2023
+      year: 2024
       items:
         - Designed a novel method, namely GPS-SSL, for integrating a priori knowledge into any self-supervised learning (SSL) model
         - GPS-SSL performs positive sampling by approximating strong augmentations 
