@@ -16,55 +16,72 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 <style>
-  .cv-badge {
-    margin: 0 0 1.3rem 0;
-  }
+  .cv-badge { margin: 0 0 1.1rem 0; }
+
   .cv-badge__link {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    font-size: 0.8rem;
-    line-height: 1;
+    gap: 6px;
+    font-size: 0.78rem;
     font-weight: 500;
-    padding: 6px 14px 6px 10px;
-    border-radius: 22px;
-    background: linear-gradient(135deg,var(--global-bg-color) 0%,rgba(0,0,0,0.04) 100%);
-    color: var(--global-text-color);
+    line-height: 1;
+    padding: 6px 14px 6px 12px;
+    border-radius: 18px;
     text-decoration: none;
-    border: 1px solid var(--global-border-color);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.06);
-    transition: background .18s ease, box-shadow .18s ease, transform .18s ease, border-color .18s ease;
+    color: #1f1f21;
+    background: linear-gradient(to bottom,#fbfbfc,#f4f5f6);
+    border: 1px solid #d6d7d8;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+    transition: background .16s ease, box-shadow .16s ease, transform .16s ease;
+    -webkit-font-smoothing: antialiased;
   }
+
   .cv-badge__icon {
-    display: inline-flex;
-    width: 18px;
-    height: 18px;
-    align-items: center;
-    justify-content: center;
-    font-size: 0.9rem;
-    color: var(--global-accent-color);
+    font-size: .9rem;
+    color: #5c5e61;
+    line-height: 1;
   }
+
   .cv-badge__link:hover,
   .cv-badge__link:focus {
-    background: linear-gradient(135deg,var(--global-bg-color) 0%,rgba(0,0,0,0.10) 100%);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
-    transform: translateY(-1px);
-    border-color: var(--global-accent-color);
-    outline: none;
-  }
-  .cv-badge__link:active {
-    transform: translateY(0);
+    background: linear-gradient(to bottom,#ffffff,#f2f3f4);
     box-shadow: 0 2px 6px rgba(0,0,0,0.10);
+    transform: translateY(-1px);
   }
+
+  .cv-badge__link:active {
+    background: linear-gradient(to bottom,#f1f2f3,#e9eaeb);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.10) inset;
+    transform: translateY(0);
+  }
+
+  .cv-badge__link:focus-visible {
+    outline: 2px solid #909295;
+    outline-offset: 3px;
+  }
+
   @media (prefers-color-scheme: dark) {
     .cv-badge__link {
-      background: linear-gradient(135deg,var(--global-bg-color) 0%,rgba(255,255,255,0.05) 100%);
-      box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+      background: linear-gradient(to bottom,#232527,#1c1e20);
+      border: 1px solid #313437;
+      color: #e6e7e8;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.55);
     }
+    .cv-badge__icon { color: #c2c3c5; }
     .cv-badge__link:hover,
     .cv-badge__link:focus {
-      background: linear-gradient(135deg,var(--global-bg-color) 0%,rgba(255,255,255,0.12) 100%);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.7);
+      background: linear-gradient(to bottom,#292b2d,#202224);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.60);
+      transform: translateY(-1px);
+    }
+    .cv-badge__link:active {
+      background: linear-gradient(to bottom,#1d1f21,#18191b);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.55) inset;
+      transform: translateY(0);
+    }
+    .cv-badge__link:focus-visible {
+      outline: 2px solid #5b5d60;
+      outline-offset: 3px;
     }
   }
 </style>

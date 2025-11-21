@@ -81,6 +81,13 @@
 - title: Projects
   type: time_table
   contents:
+    - title: "<a href='https://groundcua.github.io/'>GroundCUA: Grounding Computer Use Agents on Human Demonstrations</a>"
+      year: 2025
+      items:
+        - Created a large-scale GUI dataset with 3.5M+ expert annotations across 80+ real applications
+        - Released the GroundNext family of models achieving state-of-the-art GUI grounding performance
+        - Built training and inference suites for utilizing GroundCUA and GroundNext models
+
     - title: <a href="https://arxiv.org/abs/2502.15210">PairBench Are Vision-Language Models Reliable at Comparing What They See?</a>
       year: 2025
       items:
